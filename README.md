@@ -19,7 +19,7 @@ The home page displays all the locations as buttons. Clicking on them will redir
 
 The review page allows users to submit reviews that are stored in the backend database. The message must be under 500 characters, and the rating must be within 0-100.
 
-To run the webpage locally, clone the master branch and run the following commands:
+To run the webpage locally, clone the master branch and run the following commands in the terminal/commmand prompt :
 
 ```
 cd backend/project
