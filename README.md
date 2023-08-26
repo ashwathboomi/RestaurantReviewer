@@ -13,7 +13,11 @@ Code contained in the master branch.
 
 ![image](https://github.com/ashwathboomi/RestaurantReviewer/assets/113210547/7b18d15e-9f4a-4e38-8374-f4eed7ebc927)
 
-All pages contain a navigation bar on the top to quickly visit other pages. The home page displays all the locations as buttons. Clicking on them will redirect you to a page that contains the restaurant reviews in that location (receiving data from the backend database) with the more recent reviews being on top. The review page allows users to submit reviews that are stored in the backend database. The message must be under 500 characters, and the rating must be within 0-100.
+All pages contain a navigation bar on the top to quickly visit other pages. 
+
+The home page displays all the locations as buttons. Clicking on them will redirect you to a page that contains the restaurant reviews in that location (receiving data from the backend database) with the more recent reviews being on top. 
+
+The review page allows users to submit reviews that are stored in the backend database. The message must be under 500 characters, and the rating must be within 0-100.
 
 To run the webpage locally, clone the master branch and run the following commands:
 
