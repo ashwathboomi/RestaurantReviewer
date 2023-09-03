@@ -1,7 +1,7 @@
 # RestaurantReviewer
 ## Created a Full Stack application using Django and React for users to submit reviews for restaurants in a certain area
 
-Code contained in the master branch.
+*Code contained in the master branch*
 
 ![image](https://github.com/ashwathboomi/RestaurantReviewer/assets/113210547/a459b1d4-b087-43c0-8dc7-f303a965c996)
 
